@@ -35,6 +35,7 @@ export function ExperienceSection() {
               isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
             }`}
           >
+            
             <h2 className="text-3xl sm:text-4xl font-bold mb-4">Work Experience</h2>
             <p className="text-lg text-muted-foreground">My professional journey and achievements</p>
           </div>
